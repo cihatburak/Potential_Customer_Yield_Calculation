@@ -1,2 +1,6 @@
-# Potential_Customer_Yield_Calculation
- 
+<p><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">10.2021</span></span></span></span></span></span><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none"> <strong>Potential Customer Yield Calculation</strong></span></span></span></span></span></span></p>
+
+<ul>
+	<li aria-level="1" style="list-style-type:disc"><span style="font-size:10pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Using some features of company customers new level-based customer definitions and segments (persona) creation&nbsp;</span></span></span></span></span></span></li>
+	<li aria-level="1" style="list-style-type:disc"><span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Estimating how much new customers can earn on average to the company on the basis of these segments</span></span></span></span></span></span></li>
+</ul>
